@@ -2,15 +2,15 @@
 <h3 align="center">Frontend | JavaScript | problem solving | are my live</h3>
 <img style="margin:0 0 10px 0" align="right" width="400px" src = "https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fprogrammer.gif&ehk=hANs%2bktW5sQlvyjDispeFdwwb0b3PsyP%2biI7wi0JgWw%3d"/>
 
--🔭 I’m currently studying Computer Science At [Benha University](https://www.linkedin.com/school/benha-university/)
+- 🔭 I’m currently studying Computer Science At [Benha University](https://www.linkedin.com/school/benha-university/)
 
--🌱 I’m currently learning **Advanced topic in | algorithm | Data structure | React**
+- 🌱 I’m currently learning **Advanced topic in | algorithm | Data structure | React**
 
--👨‍💻 All of my projects are available Here [My profile](https://mohamedate.github.io/Mohamed_Atef/)
+- 👨‍💻 All of my projects are available Here [My profile](https://mohamedate.github.io/Mohamed_Atef/)
  
--💬 Ask me about **Problem Solving | Javascript**
+- 💬 Ask me about **Problem Solving | Javascript**
 
--📫 How to reach me **dangerous0111592@gmail.com**
+- 📫 How to reach me **dangerous0111592@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
