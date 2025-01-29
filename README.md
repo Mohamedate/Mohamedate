@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced topic in | Next js | React js**
 
-- 👨‍💻 All of my projects are available Here [My profile](https://atef.pro)
+- 👨‍💻 All of my projects are available Here [https://atef.pro](https://atef.pro)
  
 - 💬 Ask me about **Problem Solving | JavaScript | TypeScript**
 
